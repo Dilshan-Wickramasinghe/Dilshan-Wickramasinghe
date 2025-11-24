@@ -1,130 +1,74 @@
-<!-- Dark Container -->
-<div align="center" style="background-color:#0d1117; padding: 25px; border-radius: 12px;">
+<h1>Dilshan Wickramasinghe <img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=Dilshan-Wickramasinghe&style=flat-square"></h1>
 
-  <h1 style="color:#58a6ff;">👋 Hey, I'm <strong>Dilshan Wickramasinghe</strong></h1>
-  <h3 style="color:#c9d1d9;">Software Engineering Intern • Full-Stack Developer • Tech Enthusiast</h3>
+## About Me
 
-  <!-- GitHub Stats -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Dilshan-Wickramasinghe&show_icons=true&theme=tokyonight&hide_border=true" 
-    width="55%"
-  />
-
-</div>
-
----
-
-<h2 style="color:#58a6ff;">🔧 Tech Stack</h2>
-
-<h3 style="color:#c9d1d9;">Frontend</h3>
-<ul style="color:#8b949e;">
-  <li>⚛️ React.js</li>
-  <li>🎨 HTML • CSS • JavaScript</li>
-  <li>🅱️ Bootstrap</li>
-</ul>
-
-<h3 style="color:#c9d1d9;">Backend</h3>
-<ul style="color:#8b949e;">
-  <li>☕ Java (Spring Boot)</li>
-  <li>🐍 Python</li>
-  <li>🐘 PHP</li>
-  <li>🔗 REST APIs</li>
-</ul>
-
-<h3 style="color:#c9d1d9;">Databases</h3>
-<ul style="color:#8b949e;">
-  <li>🛢 MySQL</li>
-  <li>🐘 PostgreSQL</li>
-  <li>🍃 MongoDB</li>
-</ul>
-
-<h3 style="color:#c9d1d9;">DevOps & Cloud</h3>
-<ul style="color:#8b949e;">
-  <li>🐙 Git • GitHub</li>
-  <li>🐳 Docker (basic)</li>
-  <li>☁️ AWS (basic)</li>
-</ul>
-
-<h3 style="color:#c9d1d9;">Tools</h3>
-<ul style="color:#8b949e;">
-  <li>📬 Postman</li>
-  <li>🎨 Figma</li>
-  <li>🖥 IntelliJ IDEA • VS Code</li>
-  <li>📌 JIRA</li>
-  <li>🌐 Cisco Packet Tracer</li>
-</ul>
-
----
-
-<h2 style="color:#58a6ff;">🧪 Projects</h2>
-
-<h3 style="color:#c9d1d9;">📘 Brahmi Character Recognition (Ongoing)</h3>
-<p style="color:#8b949e;">
-<strong>Python, TensorFlow, PyTorch, OpenCV, Flask</strong><br>
-🧠 Deep learning models for Brahmi character recognition & historical period classification.
+<p align="justify">
+I am an IT undergraduate and passionate developer focused on modern web technologies, mobile development, and innovative tech solutions.  
+I enjoy building real-world projects, exploring new tools, and continuously improving my skills through hands-on development.
 </p>
 
-<h3 style="color:#c9d1d9;">🎵 Music Streaming Application</h3>
-<p style="color:#8b949e;">
-<strong>HTML, CSS, JavaScript, JSP, Java</strong><br>
-🎧 Built a desktop-style web music player with playlists, search, and playback.
+<p align="justify">
+My tech journey started with HTML, CSS, and basic scripting. Over time, I expanded into JavaScript, PHP, React, IoT development, and mobile technologies.  
+I also work with cloud computing, DevOps tooling, and automation workflows.
 </p>
 
-<h3 style="color:#c9d1d9;">💊 Pharmacy Management System</h3>
-<p style="color:#8b949e;">
-<strong>PHP, MySQL, JS, Bootstrap</strong><br>
-🏥 Stock management, prescription handling, and role-based access.
+<p align="justify">
+I love creating meaningful applications that solve real problems while maintaining clean, scalable code.  
+Helping others and sharing knowledge is a big part of why I enjoy software development.
 </p>
 
-<h3 style="color:#c9d1d9;">🩺 Telemedicine App (Ongoing)</h3>
-<p style="color:#8b949e;">
-<strong>Spring Boot, React.js, JWT, PostgreSQL, Thymeleaf</strong><br>
-💻 Secure appointments, authentication, consultations & REST APIs.
+<p align="justify">
+I am currently improving my skills in MERN stack, iOS development (Swift), IoT systems, and autonomous technologies.
 </p>
 
 ---
 
-<h2 style="color:#58a6ff;">📚 Certifications</h2>
-<ul style="color:#8b949e;">
-  <li>📜 Java Foundations – JetBrains</li>
-  <li>☁️ AWS Cloud Essentials – AWS</li>
-  <li>🖥 JavaFX GUI Development – LinkedIn</li>
-  <li>🌐 Web Design for Beginners – UoM</li>
-  <li>🐍 Python for Beginners – UoM</li>
-  <li>🐳 Docker Foundations – Docker</li>
-  <li>🌐 Networking Essentials – Cisco</li>
-  <li>🤖 AI/ML Engineer – SLIIT</li>
-</ul>
+## My Skills
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dilshan-Wickramasinghe&layout=compact&card_width=275&theme=github_dark&langs_count=10" alt="Top Languages" align="right" width="295">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dilshan-Wickramasinghe&count_private=true&show_icons=true&include_all_commits=true&theme=github_dark)
+
+### Languages / Frameworks I am good at:
+
+<a href="#"><img alt="HTML5" title="HTML5" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" height="42"></a>
+<a href="#"><img alt="CSS3" title="CSS3" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" height="42"></a>
+<a href="#"><img alt="JavaScript" title="JavaScript" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" height="42"></a>
+<a href="#"><img alt="React.js" title="React.js" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" height="42"></a>
+<a href="#"><img alt="PHP" title="PHP" src="https://raw.githubusercontent.com/github/explore/master/topics/php/php.png" height="42"></a>
+<a href="#"><img alt="MySQL" title="MySQL" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png" height="42"></a>
+<a href="#"><img alt="MongoDB" title="MongoDB" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png" height="42"></a>
+<a href="#"><img alt="Git" title="Git" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" height="42"></a>
+
+### Languages / Frameworks I am learning:
+
+<a href="#"><img alt="Node.js" title="Node.js" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" height="42"></a>
+<a href="#"><img alt="Express.js" title="Express.js" src="https://raw.githubusercontent.com/github/explore/master/topics/express/express.png" height="42"></a>
+<a href="#"><img alt="TypeScript" title="TypeScript" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png" height="42"></a>
+<a href="#"><img alt="Swift" title="Swift (iOS Development)" src="https://raw.githubusercontent.com/github/explore/master/topics/swift/swift.png" height="42"></a>
+<a href="#"><img alt="IoT" title="Internet of Things" src="https://raw.githubusercontent.com/github/explore/master/topics/raspberry-pi/raspberry-pi.png" height="42"></a>
+
+### Environments & Tools I use:
+
+<a href="#"><img alt="VS Code" title="VS Code" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" height="42"></a>
+<a href="#"><img alt="GitHub" title="GitHub" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" height="42"></a>
+<a href="#"><img alt="Linux" title="Linux" src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png" height="42"></a>
+<a href="#"><img alt="Docker" title="Docker" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png" height="42"></a>
+<a href="#"><img alt="AWS" title="AWS" src="https://raw.githubusercontent.com/github/explore/master/topics/aws/aws.png" height="42"></a>
+<a href="#"><img alt="Figma" title="Figma" src="https://raw.githubusercontent.com/github/explore/master/topics/figma/figma.png" height="42"></a>
 
 ---
 
-<h2 style="color:#58a6ff;">🤝 Volunteering</h2>
-<ul style="color:#8b949e;">
-  <li>🦁 Leo Club – UWU</li>
-  <li>💡 IEEE Computer Society – UWU</li>
-</ul>
+## Recent GitHub Activity
+
+<!--START_SECTION:activity-->
+Activity tracking will appear here automatically once configured.
+<!--END_SECTION:activity-->
 
 ---
 
-<h2 style="color:#58a6ff;">📫 Connect With Me</h2>
+## Show Your Support
 
-<p style="color:#8b949e;">
-📧 <strong>Email:</strong>  
-<a href="mailto:dilshanwickramasinghe007@gmail.com" style="color:#58a6ff;">dilshanwickramasinghe007@gmail.com</a><br><br>
+If you enjoy my work, consider following me or connecting with me on GitHub!  
+I appreciate feedback, suggestions, and collaboration opportunities.
 
-🔗 <strong>LinkedIn:</strong><br>
-<a href="https://www.linkedin.com/in/dilshan-wick/" style="color:#58a6ff;">linkedin.com/in/dilshan-wick</a><br><br>
-
-💻 <strong>GitHub:</strong><br>
-<a href="https://github.com/Dilshan-Wickramasinghe" style="color:#58a6ff;">github.com/Dilshan-Wickramasinghe</a><br><br>
-
-✍️ <strong>Medium:</strong><br>
-<a href="https://medium.com/@dilshantharindu9952" style="color:#58a6ff;">medium.com/@dilshantharindu9952</a>
-</p>
-
----
-
-<div align="center" style="padding: 25px;">
-  <h3 style="color:#58a6ff;">✨ Thanks for visiting!</h3>
-  <p style="color:#8b949e;">Feel free to ⭐ my repositories if you find them helpful!</p>
-</div>
