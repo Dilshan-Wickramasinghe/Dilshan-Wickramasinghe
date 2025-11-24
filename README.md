@@ -20,7 +20,7 @@
 
 - 📫 Reach me via **dilshanwickramasinghe007@gmail.com**
 
-- ⚡ Fun fact: **Music keeps the code flowing 🎵**
+
 
 <br>
 
