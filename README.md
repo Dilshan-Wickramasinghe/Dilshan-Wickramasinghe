@@ -42,14 +42,6 @@
 
 ---
 
-<h2 style="color:#58a6ff;">🧪 Projects</h2>
-
-<h3 style="color:#c9d1d9;">📘 Brahmi Character Recognition (Ongoing)</h3>
-<p style="color:#8b949e;">
-<strong>Python, TensorFlow, PyTorch, OpenCV, Flask</strong><br>
-Building DL models for Brahmi character recognition & historical period classification.
-</p>
-
 <h3 style="color:#c9d1d9;">🎵 Music Streaming Application</h3>
 <p style="color:#8b949e;">
 <strong>HTML, CSS, JS, JSP, Java</strong><br>
