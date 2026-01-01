@@ -64,6 +64,13 @@
       <br>Java
     </td>
   </tr>
+  
+  <tr>
+  <td align="center" width="100">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45" height="45" alt="C#"/>
+  <br>C#
+</td>
+
 
   <tr>
     <td align="center" width="100">
