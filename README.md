@@ -100,6 +100,10 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
       <br>Git
     </td>
+    <td align="center" width="100">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45" height="45" alt="Bootstrap"/>
+  <br>Bootstrap
+</td>
   </tr>
 
   <tr>
