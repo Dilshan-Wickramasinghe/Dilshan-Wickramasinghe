@@ -71,6 +71,13 @@
   <br>C#
 </td>
 
+<tr>
+<td align="center" width="100">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="45" height="45" alt=".NET Framework"/>
+  <br>.NET
+</td>
+
+
 
   <tr>
     <td align="center" width="100">
