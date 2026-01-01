@@ -63,22 +63,19 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
       <br>Java
     </td>
-  </tr>
-  
-  <tr>
+
+      <tr>
   <td align="center" width="100">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45" height="45" alt="C#"/>
   <br>C#
 </td>
 
-<tr>
 <td align="center" width="100">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="45" height="45" alt=".NET Framework"/>
   <br>.NET
 </td>
-
-
-
+  </tr>
+  
   <tr>
     <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
