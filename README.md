@@ -21,7 +21,7 @@
 **Full-Stack Development**
 
 ### 📫 Reach me at
-**dilshanwickramasinghe007@gmail.com**
+**dilshan.wickramasinghedev@gmail.com**
 
 <br><br>
 
