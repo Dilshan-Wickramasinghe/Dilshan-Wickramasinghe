@@ -18,7 +18,7 @@
 **Bachelor of Industrial Information Technology degree programme**
 
 ### 💻 Passionate about
-**Full-Stack Development**
+**Full-Stack Development & AI/ML Focus**
 
 ### 📫 Reach me at
 **dilshan.wickramasinghedev@gmail.com**
