@@ -118,7 +118,11 @@
     <td align="center" width="100">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" height="45" alt="NumPy"/>
     <br>NumPy
-</td>
+    </td>
+    <td align="center" width="100">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" height="45" alt="Pandas"/>
+    <br>Pandas
+    </td>
 </td>
 
   </tr>
