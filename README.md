@@ -123,6 +123,10 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" height="45" alt="Pandas"/>
     <br>Pandas
     </td>
+    <td align="center" width="100">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="45" height="45" alt="Scikit-learn"/>
+    <br>Scikit-learn
+  </td>
 </td>
 
   </tr>
