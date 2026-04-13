@@ -131,6 +131,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="45" height="45" alt="OpenCV"/>
   <br>OpenCV
 </td>
+    <td align="center" width="100">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45" height="45" alt="Flask"/>
+  <br>Flask
+</td>
 </td>
 
   </tr>
